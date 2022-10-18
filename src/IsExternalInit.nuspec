@@ -3,7 +3,7 @@
   <metadata>
     <id>IsExternalInit</id>
     <version>1.0.3</version>
-    <developmentDependency>true</developmentDependency>
+    <!--<developmentDependency>true</developmentDependency>-->
     <authors>Manuel Römer</authors>
     <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
